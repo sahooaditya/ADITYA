@@ -1,0 +1,356 @@
+ImgID,BodySize,Complexion,Occasion,DressColor,DressDesign,Matching
+photo-1492447166138-50c3889fccb1,L,Very Fair,Casual,Black&White,Cuban Collar Shirt,Y
+Img_4,XL,Fair,Casual,Blue&White,Linen Shirt,N
+image_51,M,Medium,Casual,LightBlue,Overshirt,N
+image_52,M,Very Fair,Casual,Muddy Brown,Linen Shirt,Y
+image_53,S,Fair,Wedding,White&Pink,Overshirt,Y
+image_54,L,Olive,Wedding,Red&Cream,Linen Shirt,Y
+image_55,M,Brown,Wedding,Yellow,Overshirt,Y
+image_56,XL,Very Fair,Casual,Black,Linen Shirt,Y
+image_57,L,Fair,Wedding,LightBlue,Linen Shirt,N
+image_58,XL,Medium,Wedding,LightBlue&Golden,Linen Shirt,Y
+image_59,L,Brown,Wedding,Muddy Brown,Overshirt,Y
+image_60,M,Dark Brown,Wedding,Black&White,Linen Shirt,N
+image_61,L,Very Fair,Casual,Black&White&Green,Linen Shirt,Y
+image_62,XL,Medium,Casual,Black&White&Green,Flannel Shirt,N
+image_63,M,Fair,Casual,Blue&Grey&Yellow,Classic Short Sleeve Shirt,Y
+image_64,L,Dark Brown,Casual,Black&Orange&White,Classic Short Sleeve Shirt,Y
+image_65,L,Dark Brown,Casual,Grey&Blue,Linen Shirt,Y
+image_66,XL,Fair,Casual,Blue&White,Linen Shirt,Y
+image_67,L,Olive,Casual,Black&Grey,Linen Shirt,Y
+image_68,XL,Fair,Casual,Army,Linen Shirt,Y
+image_69,M,Very Fair,Casual,White,Linen Shirt,N
+image_70,L,Fair,Casual,LightBlue,Classic Short Sleeve Shirt,Y
+image_71,XL,Medium,Casual,Army,Linen Shirt,N
+image_72,M,Fair,Casual,Blue&Yellow,Linen Shirt,Y
+image_73,L,Brown,Wedding,DarkBlue&Brown,Linen Shirt,N
+image_74,XL,Medium,Wedding,DarkBlue&Black,Linen Shirt,N
+image_75,L,Fair,Sports,White&Mehendi,Linen Shirt,Y
+image_76,XL,Fair,Party,Black&White&Mehendi,Linen Shirt,Y
+image_77,M,Dark Brown,Wedding,Pink&Grey,Linen Shirt,Y
+image_78,L,Medium,Party,Blue,Linen Shirt,Y
+image_79,M,Fair,Casual,Mehendi,Classic Short Sleeve Shirt,N
+image_81,XL,Very Fair,Wedding,LightBlue&Golden,Linen Shirt,Y
+image_82,L,Fair,Party,Denim&White&Grey,Linen Shirt,N
+image_83,L,Brown,Casual,Blue&Pink,Classic Short Sleeve Shirt,N
+image_84,M,Olive,Casual,Multicolor,Classic Short Sleeve Shirt,Y
+image_85,XL,Dark Brown,Formal,Muddy Brown,Linen Shirt,Y
+image_86,M,Very Fair,Casual,Black&White,Linen Shirt,Y
+image_87,XL,Medium,Casual,Blue&Red&Grey,Linen Shirt,Y
+image_88,L,Fair,Casual,Black&Mehendi,Linen Shirt,Y
+image_89,M,Brown,Formal,Cream,Oxford Button-Down Shirt,N
+image_91,M,Olive,Formal,Blue&White&Grey,Linen Shirt,Y
+image_92,XL,Fair,Formal,Blue&White,Linen Shirt,N
+image_93,L,Olive,Formal,Grey&White,Linen Shirt,Y
+image_94,M,Very Fair,Formal,Blue&MuddyBrown,Linen Shirt,N
+image_95,XL,Medium,Formal,Black&White,Linen Shirt,N
+image_96,M,Fair,Formal,DarkBlue&White,Linen Shirt,Y
+image_97,XL,Brown,Casual,Black&White,Linen Shirt,Y
+PHT_1,XXL,Olive,Party,Black,Flannel Shirt&Blazer,Y
+PHT_2,L,Very Fair,Party,Black,Flannel Shirt&Blazer,Y
+PHT_3,L,Dark Brown,Casual,Denim Blue,Flannel Shirt,Y
+PHT_4,L,Fair,Casual,White&Blue,Classic Short Sleeve Shirt,N
+PHT_5,L,Brown,Formal,Pink&Black,Flannel Shirt,Y
+PHT_6,L,Fair,Casual,White&Grey,Flannel Shirt,Y
+PHT_7,XL,Medium,Formal,Pink&Grey,Flannel Shirt,Y
+PHT_8,L,Olive,Formal,Pink&Black,Flannel Shirt,N
+PHT_9,XL,Fair,Formal,Blue,Flannel Shirt,N
+PHT_10,XL,Brown,Formal,Red&Black,Flannel Shirt,Y
+PHT_21,XL,Very Fair,Casual,Red&Grey,Kurti,Y
+PHT_22,XXL,Fair,Casual,Blue&grey,Flannel Shirt,Y
+PHT_23,XL,Medium,Casual,Black&White,Flannel Shirt,Y
+PHT_24,XL,Very Fair,Casual,Blue&White,Flannel Shirt,Y
+PHT_25,XL,Brown,Casual,Black&White,Flannel Shirt,Y
+PHT_26,XL,Dark Brown,Casual,Blue&Pink,Flannel Shirt,Y
+PHT_27,XXL,Olive,Casual,Multicolor,Classic Short Sleeve Shirt,N
+PHT_28,XXL,Fair,Casual,Muddy Brown,Flannel Shirt,N
+PHT_29,XL,Very Fair,Casual,Black&White,Flannel Shirt,Y
+PHT_30,M,Olive,Casual,Blue&Red&Grey,Classic Short Sleeve Shirt,Y
+PHT_41,L,Medium,Wedding,Black&Mehendi,Kurti,Y
+PHT_42,XXL,Fair,Wedding,Cream,Kurti,Y
+PHT_43,XXL,Medium,Wedding,Blue&White&Grey,Kurti,Y
+PHT_44,L,Brown,Wedding,Blue&White,Kurti,Y
+PHT_45,XL,Very Fair,Wedding,Grey&White,Kurti,Y
+PHT_46,L,Dark Brown,Wedding,Blue&MuddyBrown,Kurti,Y
+PHT_47,XXL,Brown,Wedding,Black&White,Kurti,Y
+PHT_48,XL,Medium,Wedding,DarkBlue&White,Kurti,Y
+PHT_49,XXL,Olive,Wedding,White&Blue,Kurti,Y
+PHT_50,XXL,Brown,Wedding,Pink&Black,Kurti,Y
+PHT_61,L,Fair,Formal,White&Grey,T Shirt,Y
+PHT_62,L,Medium,Formal,Pink&Grey,Flannel Shirt,Y
+PHT_63,XL,Very Fair,Formal,Pink&Black,Full Shirt,N
+PHT_64,XL,Brown,Formal,Blue,Flannel Shirt,N
+PHT_65,XXL,Olive,Formal,Red&Black,Overshirt,Y
+PHT_66,XXL,Fair,Formal,Red&Grey,Half Kurti,Y
+PHT_67,XL,Fair,Formal,Blue&grey,Half Polo Shirt,N
+PHT_68,L,Brown,Formal,Black&White,Flannel Shirt,Y
+PHT_69,L,Fair,Formal,Blue&White,Flannel Shirt,Y
+PHT_70,XL,Very Fair,Formal,Black&White,Flannel Shirt&Half blazer,N
+PHT_81,L,Olive,Sports,Blue&Pink,Sport jacket,N
+PHT_82,M,Medium,Sports,Multicolor,Half Polo Shirt,Y
+PHT_83,L,Olive,Sports,Muddy Brown,Sport jacket,N
+PHT_84,L,Very Fair,Sports,Black&White,Polo Shirt,N
+PHT_85,M,Fair,Sports,Silver,Full Polo Shirt,Y
+PHT_86,L,Brown,Sports,Silver,Full Jacket,Y
+PHT_87,L,Brown,Sports,Navy Blue,Sport jacket,Y
+PHT_88,XXL,Olive,Sports,Silver,Polo Shirt,N
+PHT_89,XL,Very Fair,Sports,Silver,Sport jacket,N
+PHT_90,XL,Medium,Sports,Grey,Polo Shirt,Y
+imgr1,M,Very Fair,party,Black&Red,Casual Shirts,Y
+imgr2,L,Fair,party,Black,Casual Shirts,Y
+imgr3,XL,Very Fair,party,Black&White,Casual Shirts,N
+imgr4,XL,Brown,Formal,Pink,Flannel Shirt,N
+imgr5,M,Very Fair,Casual,White&Grey,Polo Shirt,N
+imgr6,XL,Fair,Formal,White,Flannel Shirt,Y
+imgr7,XL,Medium,Wedding,Gray,Kurta,Y
+imgr8,M,Very Fair,Formal,White,Blazer,N
+imgr9,M,Fair,Casual,Black&Red,Polo Shirt,N
+imgr10,XL,Olive,Casual,White&Blue,Polo Shirt,N
+ imgr11,XXL,Brown,Formal,White,Flannel Shirt,Y
+imgr12,XL,Very Fair,Casual,Yellow,Polo Shirt,Y
+imgr13,XL,Fair,Formal,White,Flannel Shirt,Y
+imgr14,XL,Medium,Casual,Pink&White,Flannel Shirt,Y
+imgr15,M,Brown,Casual,white,Polo Shirt,N
+imgr16,XL,Dark Brown,Wedding,White,Kurta,Y
+imgr17,XL,Very Fair,Casual,Blue,Polo Shirt,N
+imgr18,XL,Medium,Casual,White,T Shirt,Y
+imgr19,XL,Fair,Casual,Yellow,Polo Shirt,N
+imgr20,XXL,Olive,Formal,Black,Flannel Shirt,N
+imgr21,XL,Dark Brown,Winter,Gray,Flannel Shirt,Y
+imgr22,XL,Brown,Winter,Gray,Flannel Shirt,Y
+imgr23,XL,Olive,Formal,Gray,Check shirt,N
+imgr24,XL,Fair,Formal,Black,Classic Short Sleeve Shirt,N
+imgr25,XL,Very Fair,Casual,Blue,Polo Shirt,Y
+imgr26,M,Fair,Formal,Black&White,Flannel Shirt,Y
+imgr27,M,Medium,Casual,Blue,Half Shirt,N
+imgr29,XL,Fair,Casual,Brown,Full Polo Shirt,N
+imgr30,XL,Brown,Casual,Blue,Polo Shirt,Y
+imgr31,XL,Medium,Wedding,Red,Kurta,Y
+imgr32,XL,Fair,Casual,Blue,Check shirt,N
+imgr33,XL,Fair,Casual,White,Polo Shirt,Y
+imgr34,XXL,Dark Brown,Casual,Yellow,Flannel Shirt,N
+imgr35,XXL,Olive,Winter,Brown,Full Jacket,N
+imgr36,XL,Fair,Casual,Blue,Jacket,N
+imgr37,XL,Brown,Casual,Blue,Polo Shirt,Y
+imgr38,XL,Fair,Casual,Red,Polo Shirt,N
+imgr39,M,Brown,Casual,Orange,Polo Shirt,N
+imgr40,XL,Olive,Casual,Gray,Polo Shirt,Y
+imgr41,XL,Dark Brown,Winter,Black,Jacket,N
+imgr42,XL,Very Fair,Formal,Black,Blazer,Y
+imgr43,XXL,Medium,Formal,Black,Flannel Shirt,N
+imgr44,XL,Fair,Casual,Yellow,Polo Shirt,N
+imgr45,XL,Brown,Casual,Yellow &Blue,Polo Shirt,Y
+imgr46,XL,Very Fair,Casual,Yellow&Gray,Full Polo Shirt,Y
+imgr47,XXL,Fair,Formal,Gray,Blazer,Y
+imgr48,XL,Olive,Casual,Gray,Check shirt,Y
+imgr49,XL,Very Fair,Formal,Navyblue,Check shirt,Y
+imgr50,XXL,Medium,Casual,Navyblue&Black,Classic Short Sleeve Shirt,Y
+imgr51,XL,Fair,Formal,Yellow&Gray,Flannel Shirt,Y
+imgr52,XL,Brown,Winter,Black&Gray,Jacket,N
+imgr53,M,Olive,Winter,Black,Jacket,Y
+imgr54,XL,Very Fair,Casual,Gray&White,Jacket,N
+imgr55,XL,Fair,Formal,Navyblue&Black,Linen Shirt,Y
+imgr56,XL,Fair,Casual,Orange,Classic Short Sleeve Shirt,Y
+imgr57,XL,Brown,Ethinic,Gray,Classic Short Sleeve Shirt,N
+imgr58,XL,Fair,Sports,Gray&Blue,Flannel Shirt,Y
+imgr59,XL,Medium,Casual,Black&Blue,Polo Shirt,Y
+imgr60,XL,Olive,Casual,Blue,Jacket,Y
+imgr61,XL,Dark Brown,Casual,White,Full Polo Shirt,Y
+imgr62,XL,Brown,Casual,Gray,Polo Shirt,Y
+imgr63,XL,Brown,Formal,White,Check shirt,Y
+imgr64,XL,Fair,Casual,White,Flannel Shirt,N
+imgr65,M,Medium,Formal,Black,Blazer,Y
+imgr66,XL,Very Fair,Sports,Navyblue,Flannel Shirt,Y
+imgr67,XXL,Brown,Casual,Blue,Flannel Shirt,N
+imgr68,XL,Fair,Formal,Black,Flannel Shirt,Y
+imgr69,XL,Olive,Casual,Darkpurple,Linen Shirt,N
+imgr70,XL,Very Fair,Formal,White,Jacket,Y
+imgr71,XL,Fair,Formal,White,Check shirt,Y
+imgr72,XL,Olive,Casual,Gray,Check shirt,Y
+imgr73,XL,Medium,Wedding,Red&white,Kurta,Y
+imgr74,XL,Fair,Formal,White,Linen Shirt,Y
+imgr75,XL,Medium,Casual,Blue,Full Polo Shirt,N
+imgr76,XL,Brown,Casual,White&Blue,Check shirt,Y
+imgr77,XL,Very Fair,Winter,Gray,Jacket,Y
+imgr78,M,Medium,Formal,Black,Linen Shirt,Y
+imgr79,M,Brown,Casual,Blue,Linen Shirt,Y
+imgr80,XL,Medium,Formal,Blue,Check shirt,Y
+imgr81,XL,Olive,Casual,Red&Blue,Check shirt,Y
+imgr82,XL,Dark Brown,Casual,NavyBlue,Check shirt,N
+imgr83,XL,Fair,Formal,Pink,Check shirt,N
+imgr84,XL,Medium,Casual,White,Linen Shirt,Y
+imgr85,XXL,Very Fair,Casual,Blue,Polo Shirt,Y
+imgr86,XL,Brown,Winter,Darkblue,Linen Shirt,Y
+imgr87,XL,Olive,Casual,Darkblue,Polo Shirt,N
+imgr88,XL,Brown,Casual,Pink,Polo Shirt,Y
+imgr89,XL,Medium,Casual,Red,Half Shirt,Y
+imgr90,XL,Brown,Formal,White,Check shirt,N
+imgr91,XL,Fair,Casual,Gray,Full Polo Shirt,Y
+imgr92,XL,Very Fair,Casual,White,Half Shirt,Y
+imgr93,XL,Olive,Formal,Pink,Linen Shirt,Y
+imgr94,XL,Medium,Casual,Black,Full Polo Shirt,Y
+imgr95,XL,Olive,Formal,Black,Blazer,N
+imgr96,XL,Very Fair,Casual,White&Blue,Polo Shirt,N
+imgr97,XL,Fair,Formal,Black,Blazer,Y
+imgr98,XL,Fair,Casual,White,Linen Shirt,Y
+imgr99,XL,Brown,Formal,Blue,Blazer,Y
+imgr100,XL,Olive,Formal,Pink&White,Linen Shirt,Y
+photo-1492447166138-50c3889fccb1,L,Very Fair,Casual,Black&White,Linen Shirt,Y
+Img_4,XL,Medium,Casual,Blue&White,Flannel Shirt,N
+photo-1231122332-1eddDDded,M,Very Fair,Wedding,Blue,Classic Short Sleeve Shirt,Y
+photo-152161667627,S,Fair,Party,Red,Flannel Shirt,Y
+photo-2134566bbbvcxdaz,L,Fair,Casual,Blue&White,Polo Shirt,Y
+photo-152161667627,S,Brown,Wedding,Red,Classic Short Sleeve Shirt,Y
+photo-1562594342-9339b30426a8,M,Medium,Formal,Black,Classic Short Sleeve Shirt,Y
+photo-1492447166138-50c3889fccb3,L,Dark Brown,Casual,Black&White,Flannel Shirt,Y
+photo-1231122332-1eddDDded,M,Olive,Wedding,Blue&White,Polo Shirt,Y
+photo-152161667627,S,Very Fair,Party,White,Polo Shirt,Y
+photo-2134566bbbvcxdaz,L,Fair,Casual,Blue,Classic Short Sleeve Shirt,Y
+photo-1492447166138-50c3889fccb4,L,Medium,Casual,Black&White,Flannel Shirt,Y
+Img_ jkvckje kjvv kz,XL,Very Fair,Casual,Black,Polo Shirt,N
+photo-1231122332-1eddDDded,M,Fair,Wedding,Blue&White,Polo Shirt,Y
+photo-2134566bbbvcxdaz,L,Olive,Casual,Blue&White,Polo Shirt,Y
+photo-199233428191i311391jjsxi19ie9e293ikqx,XXL,Brown,Casual,White,Classic Short Sleeve Shirt,Y
+photo-1231122332-1eddDDded,M,Very Fair,Casual,Blue&White,Classic Short Sleeve Shirt,Y
+photo-1119872266-738771hhbs,XL,Fair,Casual,White,Classic Short Sleeve Shirt,N
+photo-1231122332-1eddDDded,M,Medium,Wedding,Blue,Flannel Shirt,Y
+photo-152161667627,S,Brown,Party,Red,Flannel Shirt,Y
+photo-2134566bbbvcxdaz,L,Fair,Casual,Blue&White,Classic Short Sleeve Shirt,Y
+photo-199233428191i311391jjsxi19ie9e293ikqx,XXL,Very Fair,Casual,Black&White,Flannel Shirt,Y
+Img_g6tfvfcfcfcgcdtrdrtyt6i7uyijiolk,XL,Medium,Casual,Blue,Flannel Shirt,N
+photo-1119872266-738771hhbs,XL,Fair,Casual,Red,Flannel Shirt,N
+photo-152161667627,S,Very Fair,Party,Black&White,Flannel Shirt,Y
+photo-2134566bbbvcxdaz,L,Dark Brown,Casual,Blue&White,Polo Shirt,Y
+photo-1562594342-9339b30426a13,M,Fair,Formal,Black,Flannel Shirt,Y
+photo-1492447166138-50c3889fccb8,L,Olive,Casual,Black&White,Flannel Shirt,Y
+Img_11432666855nbhbuhbuk,XL,Very Fair,Casual,Blue&White,Classic Short Sleeve Shirt,N
+photo-152161667627,S,Very Fair,Party,White,Classic Short Sleeve Shirt,Y
+photo-1562594342-9339b30426a14,M,Olive,Formal,Blue&White,Classic Short Sleeve Shirt,Y
+photo-1492447166138-50c3889fccb9,L,Medium,Casual,Black&White,Flannel Shirt,Y
+Img_n773jhwhhyg3gyd,XL,Fair,Casual,Black,Polo Shirt,N
+photo-1119872266-738771hhbs,XL,Brown,Casual,Black&White,Classic Short Sleeve Shirt,N
+photo-1231122332-1eddDDded,M,Medium,Wedding,Blue&White,Flannel Shirt,Y
+photo-1562594342-9339b30426a15,M,Fair,Formal,Blue,Polo Shirt,Y
+photo-1492447166138-50c3889fccb10,L,Fair,Casual,Red,Classic Short Sleeve Shirt,Y
+photo-1492447166138-50c3889fccb11,L,Dark Brown,Casual,White,Flannel Shirt,Y
+photo-1231122332-1eddDDded,M,Dark Brown,Wedding,Blue&White,Polo Shirt,Y
+photo-1562594342-9339b30426a17,M,Fair,Formal,Black,Classic Short Sleeve Shirt,Y
+photo-1492447166138-50c3889fccb12,L,Very Fair,Casual,Black&White,Flannel Shirt,Y
+photo-1119872266-738771hhbs,XL,Fair,Casual,White,Classic Short Sleeve Shirt,N
+Img_113edafdamnV ,XL,Brown,Casual,Blue&White,Flannel Shirt,N
+photo-1119872266-738771hhbs,XL,Olive,Casual,White,Flannel Shirt,N
+photo-152161667627,S,Olive,Party,Red,Flannel Shirt,Y
+photo-2134566bbbvcxdaz,L,Very Fair,Casual,Blue&White,Polo Shirt,Y
+photo-199233428191i311391jjsxi19ie9e293ikqx,XXL,Medium,Casual,Black&White,Classic Short Sleeve Shirt,Y
+photo-1562594342-9339b30426a19,M,Fair,Formal,Black,Flannel Shirt,Y
+3d96c7c521b0c5bF4c294bb178cF034b,XL,Brown,Party,Gray&White,Linen Shirt,Y
+7d7e7328201Fe85981F823a076037aaF,XXL,Fair,Party,White,Linen Shirt,Y
+71d0161d1697ec4ddFd05cF4ab6eF155,XL,Fair,Party,Blue,Classic Short Sleeve Shirt,Y
+794bc19a5bded01192cd739b01e933F7,XL,Olive,Party,Black,Linen Shirt,Y
+1586401033353_0.,L,Very Fair,Casual,Blue,T Shirt,N
+a483aFa3e9ca4d473a5ab588e6d1a1b0,XL,Medium,Wedding,Blue,Linen Shirt,Y
+b4974686F320a34446a031Fb5F3d6742,XL,Fair,Wedding,SkyBlue,Linen Shirt,Y
+c77a68bbc23a5170edFbb607236d0e3b,XL,Brown,Casual,Yellow&White,Linen Shirt,Y
+c4838b465be1703c67F0332b0b3d0b8F,XXL,Olive,Casual,Yellow,Linen Shirt,Y
+eight_1024x1024,XL,Medium,Casual,White&Red,Classic Short Sleeve Shirt,Y
+"nscsm,cnscbmscj",XXL,Medium,Casual,Black,Linen Shirt,N
+photo-dfg2134,XL,Fair,Formal,Black,Linen Shirt,N
+photo-1516257984-b1b4d707412e,L,Brown,Casual,SkyBlue,Linen Shirt,Y
+photo-1552374196-1ab2a1c593e8,XL,Fair,Casual,Brown,Linen Shirt,N
+photo-1480455624313-e29b44bbFde1,XL,Medium,Casual,Maroon,Classic Short Sleeve Shirt,Y
+photo-1489352472630-7ad0b011c3b2,L,Olive,Casual,Blue&White,Linen Shirt,Y
+photot _12345gfe6gjdlvmb20,L,Very Fair,Wedding,Black&White,Kurti,Y
+photot _12345666gjdlvmb21,XXL,Brown,Wedding,Pink&White,Linen Shirt,Y
+PHT_43,XXL,Fair,Wedding,Golden,Kurti,Y
+PHT_44,L,Fair,Wedding,Blue&White,Kurti,Y
+PHT_45,XL,Medium,Wedding,Black&White,Linen Shirt,Y
+PHT_46,L,Very Fair,Wedding,Black&Golden,Kurti,Y
+PHT_47,XXL,Brown,Wedding,Golden,Kurti,Y
+PHT_48,XL,Fair,Wedding,Black,Linen Shirt,Y
+PHT_49,XXL,Olive,Wedding,Black,Kurti,Y
+PHT_50,XXL,Dark Brown,Wedding,Blue&Black,Linen Shirt,Y
+PHT_61,L,Dark Brown,Formal,White,T Shirt,Y
+photo-1610294726827-e2ae64b660Fc,L,Olive,Casual,Blue,Linen Shirt,Y
+photo-1616002851413-ebcc9611139d,XL,Medium,Casual,Orange,Linen Shirt,N
+photo-1617113930975-F9c7243ae527,XL,Fair,Formal,Black,Linen Shirt,Y
+lorcaserin-huMan-body,XXL,Very Fair,Casual,Red,Round Neck,N
+5_cool_winter_outFit,XL,Brown,Casual,White&Red,Winter Wear,Y
+jjghbuguj,L,Very Fair,Sports,Black,Sport jacket,Y
+8b8b46d589ede1F6c74,XL,Olive,Sports,Black,Sport jacket,Y
+4912,XL,Brown,Casual,Brown,Winter Wear,Y
+93353-50c23a,L,Medium,Sports,Gray,Kurti,Y
+4914,L,Olive,Formal,Blue&Black,Flannel Shirt,Y
+4915,XL,Medium,Formal,White,Full Shirt,N
+4916,XL,Fair,Formal,Yellow&White,Sflannel Shirt,N
+4917,XXL,Medium,Formal,White,Full Kurti,Y
+4918,XXL,Very Fair,Formal,Black,Half Kurti,Y
+4919,XL,Brown,Formal,SkyBlue,Half Polo Shirt,N
+4920,L,Olive,Formal,Coffee,Flannel Shirt,Y
+4921,L,Fair,Formal,SkyBlue,Flannel Shirt,Y
+4922,XL,Very Fair,Formal,Pink&White&White,Flannel Shirt&Half blazer,N
+4933,L,Brown,Sports,Black,Sport jacket,N
+4934,M,Fair,Sports,Black,Half Polo Shirt,Y
+PHT_83,L,Very Fair,Sports,Green,Sport jacket,N
+PHT_88,XXL,Olive,Sports,Silver,Polo Shirt,N
+PHT_89,XL,Medium,Sports,Silver,Sport jacket,N
+PHT_90,XL,Olive,Sports,Pink&White&White,Polo Shirt,Y
+IMG-3487324324,M,Very Fair,Party,Black,Linen Shirt,N
+IMG-39438nfkjnf,XL,Fair,Formal,Black,Classic Short Sleeve Shirt,Y
+IMG-r4rbirr3ufjgfj34f,L,Brown,Casual,Blue&Black,Casual Shirts,N
+IMG-r4rbirrekjnefj34f,M,Brown,Sports,White,Oxford Button-Down Shirt,N
+IMG-nvrenveejgfj34f,M,Olive,Wedding,Blue,Polo Shirt,N
+IMG-kcklcmlkmcqckm,XXL,Very Fair,Formal,Orange,Linen Shirt,Y
+IMG-rgvghvejgfj34f,M,Medium,Party,Black,Oxford Button-Down Shirt,Y
+IMG-hj hbjjgfj34f,M,Very Fair,Formal,Red,Oxford Button-Down Shirt,N
+IMG-vtyvvhhjhbjbbb,S,Fair,Wedding,White&Red,Polo Shirt,N
+IMG-r98389r4f,M,Olive,Formal,Black,Linen Shirt,N
+IMG-3487ccclcec,M,Brown,Casual,Black,Oxford Button-Down Shirt,N
+IMG-39438nfkjnf,M,Dark Brown,Casual,Brown,Polo Shirt,Y
+IMG-39438nfkjnf,XS,Dark Brown,Wedding,Gray,Classic Short Sleeve Shirt,N
+IMG-r4rbirr3ufjgvy,M,Very Fair,Party,Blue&Black,Casual Shirts,N
+IMG-r4rbirrekjnefgvgf,M,Fair,Formal,White,Oxford Button-Down Shirt,Y
+IMG-nvrenveejgfvv,M,Medium,Casual,Yellow&White,Linen Shirt,N
+IMG-kcklcmlkmcqckm,S,Very Fair,Sports,White,Oxford Button-Down Shirt,N
+IMG-rgvghvejgfj34fbbb,M,Fair,Sports,Black,Polo Shirt,N
+IMG-r4rbirrekjnefj34f,S,Olive,Formal,SkyBlue,Linen Shirt,Y
+IMG-nvrenveejgfj34f,M,Brown,Casual,Coffee,Classic Short Sleeve Shirt,Y
+IMG-kcklcmlkmcqckm,M,Very Fair,Sports,SkyBlue,Casual Shirts,N
+IMG-rgvghvejgfj34f,M,Fair,Sports,Pink&White&White,Oxford Button-Down Shirt,N
+IMG-hj hbjjgfj34f,XXL,Medium,Wedding,Black,Classic Short Sleeve Shirt,N
+IMG-vtyvvhhjhbjbbb,M,Brown,Party,Black,Casual Shirts,N
+IMG-r4rbirrekjnefj34f,S,Fair,Sports,Green,Casual Shirts,Y
+IMG-nvrenveejgfj34f,M,Very Fair,Wedding,Silver,Oxford Button-Down Shirt,Y
+IMG-kcklcmlkmcqckm,M,Medium,Party,Silver,Classic Short Sleeve Shirt,Y
+IMG-rgvghvejgfj34f,XL,Fair,Formal,Pink&White&White,Casual Shirts,N
+IMG-hj hbjjgfj34f,S,Brown,Wedding,Red,Oxford Button-Down Shirt,N
+IMG-vtyvvhhjhbjbbb,XXL,Dark Brown,Formal,Black,Classic Short Sleeve Shirt,N
+IMG-348dckjdscnsdjk,L,Medium,Casual,Black&White,Oxford Button-Down Shirt,Y
+IMG-39438nfkjnf,M,Olive,Sports,Blue&White,Classic Short Sleeve Shirt,Y
+IMG-r4rbirr3ufjgfj34f,M,Olive,Wedding,White,Casual Shirts,N
+IMG-r4rbirrekjnefj34f,M,Very Fair,Party,Blue,Oxford Button-Down Shirt,N
+IMG-nvrenveejgfj34f,M,Fair,Formal,Black&White,Classic Short Sleeve Shirt,N
+IMG-kcklcmlkmcqckm,L,Medium,Casual,Black,Casual Shirts,N
+IMG-kcklcmlkmcqckm,XXL,Fair,Wedding,Blue&White,Casual Shirts,Y
+IMG-rgvghvejgfj34f,XL,Brown,Party,Blue&White,Oxford Button-Down Shirt,Y
+IMG-hj hbjjgfj34f,XL,Medium,Formal,White,Classic Short Sleeve Shirt,N
+IMG-vtyvvhhjhbjbbb,S,Fair,Casual,Blue&White,Casual Shirts,N
+IMG-r98389r4f,L,Fair,Sports,White,Oxford Button-Down Shirt,N
+IMG-34889en23dui,M,Very Fair,Wedding,Blue,Classic Short Sleeve Shirt,Y
+IMG-r4rbirr3ufjgfj34f,L,Brown,Party,Red,Classic Short Sleeve Shirt,Y
+IMG-348d dc c ccj,XL,Fair,Formal,Blue&White,Casual Shirts,N
+IMG-39438nfkjnf,S,Olive,Casual,Black&White,Oxford Button-Down Shirt,Y
+IMG-r4rbirr3ufjgfj34f,M,Fair,Wedding,Blue,Classic Short Sleeve Shirt,Y
+IMG-r4rbirrekjnefj34f,L,Brown,Party,Red,Casual Shirts,Y
+IMG-nvrenveejgfj34f,XL,Olive,Sports,Black,Oxford Button-Down Shirt,N
+IMG-3487324c djkcn,XL,Very Fair,Party,Black&White,Oxford Button-Down Shirt,N
+IMG-39438nfkjnf,M,Very Fair,Party,Blue&White,Classic Short Sleeve Shirt,Y
+IMG-348cnewcnwq,M,Medium,Sports,White,Oxford Button-Down Shirt,Y
+IMG-39438nfkjnf,M,Fair,Sports,Blue,Classic Short Sleeve Shirt,Y
+IMG-r4rbirr3ufjgfj34f,L,Brown,Sports,Black&White,Classic Short Sleeve Shirt,N
+IMG-r4rbirrekjnefj34f,XXL,Brown,Wedding,Black,Casual Shirts,N
+IMG-kcklcmlkmcqckm,XL,Fair,Formal,Blue&White,Classic Short Sleeve Shirt,N
+IMG-rgvghvejgfj34f,XL,Olive,Party,Blue&White,Oxford Button-Down Shirt,N
+IMG-hj hbjjgfj34f,S,Very Fair,Formal,White,Classic Short Sleeve Shirt,Y
+IMG-vtyvvhhjhbjbbb,L,Medium,Casual,Blue&White,Casual Shirts,N
+IMG-r98389r4f,XL,Fair,Sports,White,Oxford Button-Down Shirt,Y
+IMG-773bexuwubw,XL,Brown,Sports,Blue,Classic Short Sleeve Shirt,Y
